@@ -1,8 +1,7 @@
-package com.cc.product.Api_product.persistence.entity;
+package com.cc.product.Api_restaurant.persistence.entity;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.aspectj.weaver.ast.Or;
 
 import javax.persistence.*;
 import java.util.List;

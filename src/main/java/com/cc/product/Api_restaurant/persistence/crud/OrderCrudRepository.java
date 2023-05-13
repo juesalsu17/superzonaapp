@@ -1,6 +1,6 @@
-package com.cc.product.Api_product.persistence.crud;
+package com.cc.product.Api_restaurant.persistence.crud;
 
-import com.cc.product.Api_product.persistence.entity.Order;
+import com.cc.product.Api_restaurant.persistence.entity.Order;
 import org.springframework.data.repository.CrudRepository;
 
 import java.time.LocalDateTime;
